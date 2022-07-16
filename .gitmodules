@@ -1,0 +1,3 @@
+[submodule "source-sdk-tf2"]
+	path = source-sdk-tf2
+	url = git@github.com:CanteenPowered/source-sdk-tf2.git
