@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/91440203/179368747-32bb5544-5d50-4674-8ca3-221f8e355f43.png)
 
-This plugin reimplements the long removed `sv_showhitboxes` convar for Team Fortress 2. Valve removed the old convar because uninformed users would enable it and assume the player hitboxes are inaccurate. These hitboxes are NOT used for hit detection. You can see the hitboxes used for hit detection with `sv_showlagcompensation`. For more information, [read about lag compensation on the Valve developer wiki](https://developer.valvesoftware.com/wiki/Lag_Compensation).
+This client plugin reimplements the long removed `sv_showhitboxes` convar for Team Fortress 2. Valve removed the old convar because uninformed users would enable it and assume the player hitboxes are inaccurate. **These hitboxes are NOT used for hit detection.** You can see the hitboxes used for hit detection with `sv_showlagcompensation`. For more information, [read about lag compensation on the Valve developer wiki](https://developer.valvesoftware.com/wiki/Lag_Compensation).
 
 ## Building - Windows (Visual Studio 2019 or later)
 1. Open the project repository in Visual Studio
